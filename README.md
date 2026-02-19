@@ -24,7 +24,12 @@ The result is hours of time saved per shift, per firefighter.
 
 Open-Source (DPG): Built 100% with open-source tools to be a true Digital Public Good, freely available for any department to adopt and modify.
 
+## 🤝 Code of Conduct
+
+We are committed to providing a friendly, safe, and welcoming environment for all. Please see our [Code of Conduct](CODE_OF_CONDUCT.md) for more information.
+
 ## ⚖️ License
+
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
